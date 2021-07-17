@@ -1,0 +1,194 @@
+
+
+body{
+    background-color:rgb( 255, 200, 1);
+}
+
+.rodatopo{
+    height: 50px;
+    width: 1445px;
+    background-color: rgb( 255, 200, 1);
+    border: 4px black solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    font-weight: bold;
+}
+
+.bloco-1{
+    height: 600px;
+    width: 1460px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb( 255, 200, 1);
+}
+
+.lado-esquerdo{
+    height: 550px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+.lado-direito{
+    height: 550px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+
+}
+
+.formulario{
+    height: 450px;
+    width: 700px;
+    color: black; 
+    border: 4px black dashed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+input[type="email"] {
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb( 255, 200, 1);
+}
+
+.bloco-2{
+    height: 420px;
+    width: 1460px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb( 255, 200, 1);
+}
+
+.oferta-1{
+    height: 400px;
+    width: 285px;
+    border: 3px black solid;
+    background-color: rgb( 255, 200, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.oferta-1:hover{
+    background-color: black;
+    color: white;
+}
+
+.oferta-2{
+    height: 400px;
+    width: 285px;
+    border: 3px black solid;
+    background-color: rgb( 255, 200, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.oferta-2:hover{
+    background-color: black;
+    color: white;
+
+}
+.oferta-3{
+    height: 400px;
+    width: 285px;
+    border: 3px black solid;
+    background-color: rgb( 255, 200, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.oferta-3:hover{
+    background-color: black;
+    color: white;
+}
+
+.oferta-4{
+    height: 400px;
+    width: 285px;
+    border: 3px black solid;
+    background-color: rgb( 255, 200, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.oferta-4:hover{
+    background-color: black;
+    color: white;
+}
+
+.oferta-5{
+    height: 400px;
+    width: 285px;
+    border: 3px black solid;
+    background-color: rgb( 255, 200, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.oferta-5:hover{
+    background-color: black;
+    color: white;
+}
+
+.oferta-destaque{
+    height: 50px;
+    width: 1460px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb( 255, 200, 1);
+    font-weight: bold;
+        
+}
+
+.rodape{
+    height: 200px;
+    width: 1460px;
+    background-color: rgb( 255, 200, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+#botao{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb( 255, 200, 1); 
+}
